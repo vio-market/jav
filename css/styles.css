@@ -88,3 +88,7 @@ footer p {
   margin-bottom: 60px;
   font-size: 14px;
 }
+
+.works >a > img {
+  margin-bottom: 60px;
+}
